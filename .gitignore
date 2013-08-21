@@ -1,5 +1,7 @@
 # Object files
 *.o
+*.obj
+*.res
 
 # Libraries
 *.lib
